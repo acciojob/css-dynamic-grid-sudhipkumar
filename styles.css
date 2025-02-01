@@ -8,6 +8,7 @@
 }
 
 .grid-container{
-	display:flex;
+	display:grid;
+	grid-auto-flow:column;
 	gap:5px;
 }
