@@ -5,6 +5,7 @@
 	width:200px;
 	border-radius:5px;
 	font-size:40px;
+	display:flex;
 }
 
 .grid-container{
