@@ -3,9 +3,10 @@
 	background-color:lightgray;
 	height:150px;
 	width:200px;
-	border-radius:5px 5px;
+	border-radius:5px;
 	font-size:40px;
 	display:flex;
+	align-items:center;
 }
 
 .grid-container{
